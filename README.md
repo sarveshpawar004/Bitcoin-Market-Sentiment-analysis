@@ -324,7 +324,7 @@ Potential extensions of this project include:
 **Sarvesh**
 
 Portfolio / GitHub:  
-[(Add your portfolio or GitHub link here)](https://sarveshpawar004.github.io/Portfolio/)
+[(portfolio)](https://sarveshpawar004.github.io/Portfolio/)
 ---
 ## Acknowledgement
 
